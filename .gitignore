@@ -1,1 +1,2 @@
-*.gdscript
+node_modules
+.serverless
